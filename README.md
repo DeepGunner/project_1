@@ -1,2 +1,2 @@
 # project_1
-First project - 
+First project - JS Game
